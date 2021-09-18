@@ -89,4 +89,6 @@ figcaption {
     margin-bottom: 40px;
 }
 
-
+#ideal-job a {
+    color: blue;
+}
